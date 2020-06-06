@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+
+main {background-image: url(front_sky.png) , url(middle_sky.png), url(back_sky.png), url(under_back_sky.png), url(front_grass.png), url(middle_grass.png), url(back_grass.png) ; 
+	background-position: top, top, top, center, bottom, bottom, bottom ; 
+	background-size: contain;
+	background-repeat: no-repeat;
+
+	}
+h1{display: flex;justify-content: center;
+		font-size: 100px;
+		font-family: 'Permanent Marker';
+		color:  #dd1102;
+		text-shadow: 3px 2px 0px black;
+
+
+
+		}
+.ss {display: flex;justify-content: center;}
